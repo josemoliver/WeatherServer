@@ -10,3 +10,7 @@ Refer to https://ambientweather.com/faqs/question/view/id/1857 for the available
 ## Awnet Advanced Settings
 
 ![AWNet Advanced Settings](https://github.com/josemoliver/WeatherServer/blob/main/AWNet_Advanced_Settings.png)
+
+## Additional Notes
+
+- Make sure the device in which this app runs has the network ports open. Verify your firewall settings. Configure the port number in Settings.json as well in the AWNet Advanced Settings.
